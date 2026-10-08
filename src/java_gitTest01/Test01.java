@@ -8,4 +8,8 @@ public class Test01 {
 	int age;
 	
 	int grade;
+	
+	//버전업 테스트
+	
+	
 }
